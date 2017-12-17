@@ -166,6 +166,11 @@ header .intro-text .skills {
     outline: 0;
 }
 
+.navbar  .skills {
+    font-size: 1.00em;
+}
+
+
 .navbar-default,
 .navbar-inverse {
     border: 0;
