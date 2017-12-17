@@ -166,6 +166,7 @@ header .intro-text .skills {
 }
 
 .navbar  .skills {
+	color: yellow;
     font-size: 1.00em;
 }
 
