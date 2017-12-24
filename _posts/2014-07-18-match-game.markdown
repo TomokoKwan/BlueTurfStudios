@@ -5,8 +5,11 @@ date: 2016-07-18
 img: matchGame_banner.png
 alt: image-alt
 project-date: 2016
-client: Start Bootstrap
 category: Android Game Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: This is a prototype of a tile matching game incorporating RPG elements.  Tile pieces react dynamically and real time allowing the player to make multiple changes to the board before executing their move.
+<iframe width="420" height="315"
+src="https://youtu.be/UrWZPBaWvxg">
+</iframe>
+
 
 ---
