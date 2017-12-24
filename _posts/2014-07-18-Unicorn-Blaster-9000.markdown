@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2016-07-18
-img: matchGame_banner.png
+img: Unicorn_Blaster_9000.png
 alt: image-alt
 project-date: 2016
 client: Start Bootstrap
