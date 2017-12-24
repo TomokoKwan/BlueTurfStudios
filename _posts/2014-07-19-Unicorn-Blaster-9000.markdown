@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2016-07-18
-img: Unicorn_Blaster_9000.png
+img: Unicorn_Blaster_9000.gif
 alt: image-alt
 project-date: 2016
 client: Start Bootstrap
