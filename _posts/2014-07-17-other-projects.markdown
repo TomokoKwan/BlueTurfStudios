@@ -10,7 +10,7 @@ description: Below are other games I have developed.
 This is a simple matching game which I have created as a innovation time project at Medidata Solutions.  Plays like CandyCrush with Match 3+ 
 breaking the tiles.  Includes music and streaming display of the companies' offerings.  Programmed in Java for the Android platform.  No external
 libraries used.
-<img src="img/portfolio/mediCrush.png" class="img-responsive img-centered" alt="{{ post.alt }}">
+<img src="../img/portfolio/mediCrush.png" class="img-responsive img-centered" alt="{{ post.alt }}">
 
 
 ---
