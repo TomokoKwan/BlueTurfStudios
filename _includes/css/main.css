@@ -251,11 +251,6 @@ section.success {
 	padding-top: 10px;
 }
 
-#about * {
-    z-index: 2;
-	padding-top: 10px;
-}
-
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
