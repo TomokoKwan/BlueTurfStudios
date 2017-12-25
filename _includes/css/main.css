@@ -256,6 +256,11 @@ section.success {
 	padding-top: 10px;
 }
 
+#contact * {
+    z-index: 2;
+	padding-top: 10px;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
@@ -295,7 +300,7 @@ section.success {
     padding-left: 0;
     border: 0;
     border-radius: 0;
-    font-size: 1.5em;
+    font-size: 1.0em;
     background: 0 0;
     box-shadow: none!important;
     resize: none;
