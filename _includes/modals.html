@@ -21,6 +21,11 @@
 								src="{{post.youtubelink}}">
 							</iframe>
 							{% endif %}
+							 {% for proj in post.other-projs %}
+								<h4>{{ proj.name }}</h4>
+								<p>{{ proj.desc }}</p>
+								<img src="img/portfolio/{{ proj.image }}" class="img-responsive img-centered" alt="{{ post.alt }}">						
+							 {% endfor %}
                             <ul class="list-inline item-details">
                                 <li>Category:
                                     <strong>{{ post.category }}
